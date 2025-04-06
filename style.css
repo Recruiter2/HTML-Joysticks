@@ -1,0 +1,43 @@
+body {
+    /* font-family: Courier, monospaced;
+    font-size: 1rem;
+    font-weight: bold; */
+}
+
+#status1 {
+    color: red;
+}
+
+#status2 {
+    color: blue;
+}
+
+/* could be rm as well */
+
+#redbox {
+    border: 1px solid red;
+    width: 128px;
+    position: absolute;
+    left: 10px;
+    top: 150px;
+}
+
+#stick1 {
+    position: absolute;
+    left: 32px;
+    top: 32px;
+}
+
+#bluebox {
+    border: 1px solid blue;
+    width: 128px;
+    position: absolute;
+    left: 210px;
+    top: 150px;
+}
+
+#stick2 {
+    position: absolute;
+    left: 32px;
+    top: 32px;
+}
